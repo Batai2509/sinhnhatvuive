@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Snvv & Thanh xuân rực rỡ 🥰. Cảm ơn vì đã xem hết 😘😘',
     messDesc: 'Click nốt cái dưới cho tôi vui nhé bạn!!!',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100015635537621'
+    messLink: 'https://www.facebook.com/messages/t/100015635537621/'
 }
