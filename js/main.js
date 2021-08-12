@@ -25,7 +25,7 @@ function firstQuestion(){
         imageUrl: 'img/lookMe.jpg',
         imageWidth: 300,
         imageHeight: 300,
-        background: '#fff url("img/iput-bg.jpg")',
+        background : '#fff url ("img / 20210729_220137.jpg ")' 
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
       }).then(function(){
@@ -119,8 +119,8 @@ $('#yes').click(function() {
             Swal.fire({
                 width: 900,
                 confirmButtonText: CONFIG.btnAccept,
-                background: '#fff url("img/iput-bg.jpg")',
-                title: CONFIG.mess,
+                background : '#fff url ("img / 20210729_220137.jpg")' ,
+                tiêu đề : CONFIG . lộn xộn ,
                 text: CONFIG.messDesc,
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
